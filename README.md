@@ -29,7 +29,7 @@
 
 ## 구현 DetailPage 기능 🚀
 |![Simulator Screen Recording - iPhone 14 Pro - 2023-12-06 at 09 24 50](https://github.com/Madman-dev/TIL/assets/119504454/1a1fef9b-c451-4201-9355-eaa696a61781)|<p align="left"> 1.선택한 영상 플레이 <br/> 2. 영상 로드 이후, 자동 플레이<br/> 3. 영상 좋아요 및 구독 클릭 → 마이 페이지에서 표시되도록 연결<br/> 4. 관련 영상 댓글 로드 (최대 50개)|
-|:---:|:---:|
+|:---|:---|
 
 ## 기술 스택 🥞
 * Swift

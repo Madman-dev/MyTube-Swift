@@ -1,10 +1,10 @@
-# MyTube-Swift 📺
-> **유튜브 어플 클론 프로젝트 소개**
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=300&section=header&text=MyTube-Swift📺%20&fontSize=90&fontColor=ffffff)
+## **유튜브 어플 클론 프로젝트 소개**
 <img width="1082" alt="Screenshot 2023-12-06 at 12 53 45 PM" src="https://github.com/Madman-dev/MyTube-Swift/assets/119504454/095113e8-e811-4304-ac07-8204a49f269e">
 <br/><br/>
 
-- 영상 플랫폼의 중심이 된 유튜브. 유튜브를 최대한 비슷하게 구현해보고자 함.<br/>
-기존보다 간편한 사용자 경험을 제공하기 위해 탭바와 UI를 깔끔하게 변경 적용.<br/>
+- 영상 플랫폼의 중심이 된 유튜브를 최대한 비슷하게 구현해보고자 도전한 프로젝트.<br/>
+간편한 사용자 경험을 조금 더 높이기 위해 플로팅 탭바와 UI를 깔끔하게 변경 시도.<br/>
 
 ## 주요 기능 ⚙️
 - 구글 API를 활용한 유튜브 **영상 크롤링**<br/>

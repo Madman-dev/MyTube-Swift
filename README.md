@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=300&section=header&text=MyTube-Swift📺%20&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FF0000,100:ffc6c6&height=230&section=header&text=MyTube-Swift📺&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=50&desc=유튜브%20클론&descAlignY=70)
+
 ## **유튜브 어플 클론 프로젝트 소개**
 <img width="1082" alt="Screenshot 2023-12-06 at 12 53 45 PM" src="https://github.com/Madman-dev/MyTube-Swift/assets/119504454/095113e8-e811-4304-ac07-8204a49f269e">
 <br/><br/>
